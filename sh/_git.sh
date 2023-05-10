@@ -11,11 +11,11 @@ git commit -m "${message:=default value}"
 
 
 #git remote add github https://___@github.com/robertddan/__.git
-#git remote add github https://___@github.com/johnidevo/__.git
+git remote add github https://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@github.com/johnidevo/draft-boilerplate.git
 #git remote add bucket https://robertddan:___@bitbucket.org/workspace/__.git
 
 git push github master
-git push bucket master
+#git push bucket master
 
 #git pull github master
 #git pull bucket master
